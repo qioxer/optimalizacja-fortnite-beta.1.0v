@@ -94,3 +94,5 @@ goto menu
 ```
 
 💡 **Pomysły? Daj znać!** 📝
+![Zrzut ekranu 2025-02-17 003923](https://github.com/user-attachments/assets/5051d583-325d-4ede-b6d1-de5e601d227a)
+
